@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>Luna Crypter</title>
+<title>xxx</title>
 	<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
 	<link rel='shortcut icon' href='favicon.ico' />
