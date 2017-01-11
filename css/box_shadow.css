@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+.shady-box {
+	background: #FFFFFF;
+	padding: 50px;
+	border-radius: 15px;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4),
+				inset 0 0 45px rgba(0, 0, 0, 0.4);
+	-webkit-box-shadow: 0 2px 30px rgba(0, 0, 0, 0.4),
+				inset 0 0 5px rgba(0, 0, 0, 0.4);
+}
+
+.header{
+background-image: url('header.png');
+width : 700px;
+height: 200px;
+}
